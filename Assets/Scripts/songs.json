@@ -1,0 +1,19 @@
+{
+	"songs": [
+		{
+			"name": "恋するフォーチュンクッキー",
+			"star": 3,
+			"demostart": 103.0
+		},
+		{
+			"name": "hello",
+			"star": 5,
+			"demostart": 0
+		},
+		{
+			"name": "media",
+			"star": 10,
+			"demostart": 0
+		}
+	]
+}
